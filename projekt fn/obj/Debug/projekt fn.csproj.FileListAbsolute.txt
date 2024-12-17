@@ -1,0 +1,10 @@
+D:\info\projekt fn\projekt fn\bin\Debug\projekt fn.exe.config
+D:\info\projekt fn\projekt fn\bin\Debug\projekt fn.exe
+D:\info\projekt fn\projekt fn\bin\Debug\projekt fn.pdb
+D:\info\projekt fn\projekt fn\obj\Debug\projekt fn.csproj.AssemblyReference.cache
+D:\info\projekt fn\projekt fn\obj\Debug\projekt_fn.Form1.resources
+D:\info\projekt fn\projekt fn\obj\Debug\projekt_fn.Properties.Resources.resources
+D:\info\projekt fn\projekt fn\obj\Debug\projekt fn.csproj.GenerateResource.cache
+D:\info\projekt fn\projekt fn\obj\Debug\projekt fn.csproj.CoreCompileInputs.cache
+D:\info\projekt fn\projekt fn\obj\Debug\projekt fn.exe
+D:\info\projekt fn\projekt fn\obj\Debug\projekt fn.pdb
